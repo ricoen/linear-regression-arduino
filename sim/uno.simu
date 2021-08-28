@@ -1,0 +1,6 @@
+<circuit type="simulide_0.1">
+ 
+Arduino Uno-1: 
+<item id="Arduino Uno-1" x="-524" labely="-20" vflip="1" valLabely="0" objectName="Arduino Uno-1" Mhz="16" labelrot="0" valLabRot="0" hflip="1" program="../.pio/build/uno/firmware.hex" y="-460" labelx="0" valLabelx="0" itemtype="Arduino" Show_id="true" rotation="90"/>
+ 
+</circuit>
